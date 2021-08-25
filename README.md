@@ -95,3 +95,4 @@ You are required to submit the following for review:
 
 ![03-javascript-homework-demo](https://user-images.githubusercontent.com/84942098/130861606-362c9544-3efb-4113-8dff-f7f4597c63ff.png)
 
+Here is the working [LINK](https://kenny522.github.io/password-generator/)
